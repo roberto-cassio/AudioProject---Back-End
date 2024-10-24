@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("AudioProject - BackEnd")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+09bfff8a508d40f2f02cfa97a5a0d61164e450fa")]
 [assembly: System.Reflection.AssemblyProductAttribute("AudioProject - BackEnd")]
 [assembly: System.Reflection.AssemblyTitleAttribute("AudioProject - BackEnd")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
