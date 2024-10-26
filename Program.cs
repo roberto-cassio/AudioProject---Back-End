@@ -4,6 +4,8 @@ using Microsoft.EntityFrameworkCore;
 using Microsoft.IdentityModel.Tokens;
 using System.Text;
 using DotNetEnv;
+using AudioProject___BackEnd.Response;
+using AudioProject___BackEnd.Repository;
 
 var builder = WebApplication.CreateBuilder(args);
 
@@ -47,6 +49,7 @@ if (app.Environment.IsDevelopment())
 
 app.UseHttpsRedirection();
 
+UserExtension.AddUserRoutes(app);
 //Authentication
 app.UseAuthentication();
 app.UseAuthorization();

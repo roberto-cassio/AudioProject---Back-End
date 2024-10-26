@@ -122,3 +122,5 @@ C:\Users\Betim\source\repos\AudioProject - BackEnd\obj\Debug\net8.0\refint\Audio
 C:\Users\Betim\source\repos\AudioProject - BackEnd\obj\Debug\net8.0\AudioProject - BackEnd.pdb
 C:\Users\Betim\source\repos\AudioProject - BackEnd\obj\Debug\net8.0\AudioProject - BackEnd.genruntimeconfig.cache
 C:\Users\Betim\source\repos\AudioProject - BackEnd\obj\Debug\net8.0\ref\AudioProject - BackEnd.dll
+C:\Users\Betim\source\repos\AudioProject - BackEnd\bin\Debug\net8.0\DotNetEnv.dll
+C:\Users\Betim\source\repos\AudioProject - BackEnd\bin\Debug\net8.0\Sprache.dll
