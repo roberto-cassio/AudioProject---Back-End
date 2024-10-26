@@ -17,11 +17,18 @@ namespace AudioProject___BackEnd.Repository
                 var newUser = new User(request.Name, request.Email, request.Password);
                 await context.Users.AddAsync(newUser);
                 await context.SaveChangesAsync();
+
+                var userRequest = new UserRequest(newUser.Id, newUser.Email, newUser.Password, newUser.Name);
+
+                return Results.Ok(userRequest);
             });
 
             routeUser.MapGet("", async (AudioDbContext context) =>
             {
-                var user = await context.Users.ToListAsync();
+                var user = await context.Users
+                .Select(user => new UserRequest(user.Id, user.Name, user.Email, user.Password))
+                .ToListAsync();
+                return user;
             });
 
 
@@ -31,11 +38,13 @@ namespace AudioProject___BackEnd.Repository
                 if (findUser == null)
                     return Results.NotFound();
 
-                findUser.updateUserName(request.Name);
+                findUser.updateUserName(request.Name, request.Email, request.Password);
 
                 await context.SaveChangesAsync();
-                return Results.Ok(findUser);
+                return Results.Ok(new UserResponse(findUser.Name, findUser.Email, findUser.Password));
             });
+
+
         }
     }
        

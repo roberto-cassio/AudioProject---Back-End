@@ -15,9 +15,13 @@
             Password = password;
         }
 
-        public void updateUserName(string userName)
+        public void updateUserName(string userName, string email, string password)
         {
             Name = userName;
+            Email = email;
+            Password = password;
         }
+
+        
     }
 }

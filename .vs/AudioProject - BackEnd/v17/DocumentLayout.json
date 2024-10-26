@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\Betim\\source\\repos\\AudioProject - BackEnd\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A96EBEB4-45BB-459B-BF6F-76AAE492D17B}|AudioProject - BackEnd.csproj|c:\\users\\betim\\source\\repos\\audioproject - backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A96EBEB4-45BB-459B-BF6F-76AAE492D17B}|AudioProject - BackEnd.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A96EBEB4-45BB-459B-BF6F-76AAE492D17B}|AudioProject - BackEnd.csproj|c:\\users\\betim\\source\\repos\\audioproject - backend\\repository\\userextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96EBEB4-45BB-459B-BF6F-76AAE492D17B}|AudioProject - BackEnd.csproj|solutionrelative:repository\\userextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A96EBEB4-45BB-459B-BF6F-76AAE492D17B}|AudioProject - BackEnd.csproj|c:\\users\\betim\\source\\repos\\audioproject - backend\\audioproject - backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
-      "RelativeMoniker": "D:0:0:{A96EBEB4-45BB-459B-BF6F-76AAE492D17B}|AudioProject - BackEnd.csproj|solutionrelative:audioproject - backend.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+      "AbsoluteMoniker": "D:0:0:{A96EBEB4-45BB-459B-BF6F-76AAE492D17B}|AudioProject - BackEnd.csproj|c:\\users\\betim\\source\\repos\\audioproject - backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96EBEB4-45BB-459B-BF6F-76AAE492D17B}|AudioProject - BackEnd.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96EBEB4-45BB-459B-BF6F-76AAE492D17B}|AudioProject - BackEnd.csproj|c:\\users\\betim\\source\\repos\\audioproject - backend\\context\\audiodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96EBEB4-45BB-459B-BF6F-76AAE492D17B}|AudioProject - BackEnd.csproj|solutionrelative:context\\audiodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A96EBEB4-45BB-459B-BF6F-76AAE492D17B}|AudioProject - BackEnd.csproj|c:\\users\\betim\\source\\repos\\audioproject - backend\\request\\userrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -19,16 +23,8 @@
       "RelativeMoniker": "D:0:0:{A96EBEB4-45BB-459B-BF6F-76AAE492D17B}|AudioProject - BackEnd.csproj|solutionrelative:response\\userresponse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A96EBEB4-45BB-459B-BF6F-76AAE492D17B}|AudioProject - BackEnd.csproj|c:\\users\\betim\\source\\repos\\audioproject - backend\\repository\\userextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A96EBEB4-45BB-459B-BF6F-76AAE492D17B}|AudioProject - BackEnd.csproj|solutionrelative:repository\\userextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A96EBEB4-45BB-459B-BF6F-76AAE492D17B}|AudioProject - BackEnd.csproj|c:\\users\\betim\\source\\repos\\audioproject - backend\\context\\audiodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A96EBEB4-45BB-459B-BF6F-76AAE492D17B}|AudioProject - BackEnd.csproj|solutionrelative:context\\audiodbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{A96EBEB4-45BB-459B-BF6F-76AAE492D17B}|AudioProject - BackEnd.csproj|c:\\users\\betim\\source\\repos\\audioproject - backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A96EBEB4-45BB-459B-BF6F-76AAE492D17B}|AudioProject - BackEnd.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A96EBEB4-45BB-459B-BF6F-76AAE492D17B}|AudioProject - BackEnd.csproj|c:\\users\\betim\\source\\repos\\audioproject - backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A96EBEB4-45BB-459B-BF6F-76AAE492D17B}|AudioProject - BackEnd.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A96EBEB4-45BB-459B-BF6F-76AAE492D17B}|AudioProject - BackEnd.csproj|c:\\users\\betim\\source\\repos\\audioproject - backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
@@ -46,24 +42,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "AudioProject - BackEnd.http",
-              "DocumentMoniker": "C:\\Users\\Betim\\source\\repos\\AudioProject - BackEnd\\AudioProject - BackEnd.http",
-              "RelativeDocumentMoniker": "AudioProject - BackEnd.http",
-              "ToolTip": "C:\\Users\\Betim\\source\\repos\\AudioProject - BackEnd\\AudioProject - BackEnd.http",
-              "RelativeToolTip": "AudioProject - BackEnd.http",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
-              "WhenOpened": "2024-10-26T01:15:40.107Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UserRequest.cs",
               "DocumentMoniker": "C:\\Users\\Betim\\source\\repos\\AudioProject - BackEnd\\Request\\UserRequest.cs",
               "RelativeDocumentMoniker": "Request\\UserRequest.cs",
@@ -72,17 +55,58 @@
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T00:24:10.109Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
+              "Title": "UserExtension.cs",
+              "DocumentMoniker": "C:\\Users\\Betim\\source\\repos\\AudioProject - BackEnd\\Repository\\UserExtension.cs",
+              "RelativeDocumentMoniker": "Repository\\UserExtension.cs",
+              "ToolTip": "C:\\Users\\Betim\\source\\repos\\AudioProject - BackEnd\\Repository\\UserExtension.cs",
+              "RelativeToolTip": "Repository\\UserExtension.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAAAnwCoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-25T23:48:38.495Z",
+              "IsPinned": true,
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Betim\\source\\repos\\AudioProject - BackEnd\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Betim\\source\\repos\\AudioProject - BackEnd\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAcwBYAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-26T22:49:04.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Betim\\source\\repos\\AudioProject - BackEnd\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Betim\\source\\repos\\AudioProject - BackEnd\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-10-26T21:40:00.315Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
               "Title": "UserResponse.cs",
               "DocumentMoniker": "C:\\Users\\Betim\\source\\repos\\AudioProject - BackEnd\\Response\\UserResponse.cs",
               "RelativeDocumentMoniker": "Response\\UserResponse.cs",
               "ToolTip": "C:\\Users\\Betim\\source\\repos\\AudioProject - BackEnd\\Response\\UserResponse.cs",
               "RelativeToolTip": "Response\\UserResponse.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-26T00:17:28.87Z",
               "EditorCaption": ""
@@ -90,58 +114,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 7,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\Betim\\source\\repos\\AudioProject - BackEnd\\appsettings.json",
-              "RelativeDocumentMoniker": "appsettings.json",
-              "ToolTip": "C:\\Users\\Betim\\source\\repos\\AudioProject - BackEnd\\appsettings.json",
-              "RelativeToolTip": "appsettings.json",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2024-10-26T00:11:16.374Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Betim\\source\\repos\\AudioProject - BackEnd\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\Betim\\source\\repos\\AudioProject - BackEnd\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAaAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-26T00:01:56.302Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "UserExtension.cs",
-              "DocumentMoniker": "C:\\Users\\Betim\\source\\repos\\AudioProject - BackEnd\\Repository\\UserExtension.cs",
-              "RelativeDocumentMoniker": "Repository\\UserExtension.cs",
-              "ToolTip": "C:\\Users\\Betim\\source\\repos\\AudioProject - BackEnd\\Repository\\UserExtension.cs",
-              "RelativeToolTip": "Repository\\UserExtension.cs",
-              "ViewState": "AQIAAAcAAAAAAAAAAAAowBsAAAAMAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-25T23:48:38.495Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Betim\\source\\repos\\AudioProject - BackEnd\\Program.cs",
-              "RelativeDocumentMoniker": "Program.cs",
-              "ToolTip": "C:\\Users\\Betim\\source\\repos\\AudioProject - BackEnd\\Program.cs",
-              "RelativeToolTip": "Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABgAAABPAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-24T23:38:32.678Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
               "Title": ".env",
               "DocumentMoniker": "C:\\Users\\Betim\\source\\repos\\AudioProject - BackEnd\\.env",
               "RelativeDocumentMoniker": ".env",
@@ -149,20 +121,32 @@
               "RelativeToolTip": ".env",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAEAAAAVAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
-              "WhenOpened": "2024-10-24T23:20:35.761Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-10-24T23:20:35.761Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 2,
               "Title": "AudioDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Betim\\source\\repos\\AudioProject - BackEnd\\Context\\AudioDbContext.cs",
               "RelativeDocumentMoniker": "Context\\AudioDbContext.cs",
               "ToolTip": "C:\\Users\\Betim\\source\\repos\\AudioProject - BackEnd\\Context\\AudioDbContext.cs",
               "RelativeToolTip": "Context\\AudioDbContext.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAABaAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-10-24T22:43:37.409Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Betim\\source\\repos\\AudioProject - BackEnd\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Betim\\source\\repos\\AudioProject - BackEnd\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAACoAAAAAAAAAAAAYwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-24T23:38:32.678Z",
               "EditorCaption": ""
             }
           ]

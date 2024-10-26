@@ -1,4 +1,4 @@
 ﻿namespace AudioProject___BackEnd.Response
 {
-    public record UserResponse(int Id, string Name, string Password);
+    public record UserResponse(string Name, string Email, string Password);
 }
